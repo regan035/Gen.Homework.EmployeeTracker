@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/regan035/Gen.Homework.EmployeeTracker#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "express": "^4.17.1",
+    "inquirer": "^7.0.6",
     "mysql2": "^2.1.0"
   }
 }
